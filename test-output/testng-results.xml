@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12248" started-at="2022-05-18T14:40:15Z" finished-at="2022-05-18T14:40:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12248" started-at="2022-05-18T14:40:15Z" finished-at="2022-05-18T14:40:27Z">
+      <class name="com.myntra.MyntraTest">
+        <test-method status="PASS" signature="initbrowser()[pri:0, instance:com.myntra.MyntraTest@c038203]" name="initbrowser" is-config="true" duration-ms="13568" started-at="2022-05-18T20:10:02Z" finished-at="2022-05-18T20:10:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initbrowser -->
+        <test-method status="PASS" signature="myntratest()[pri:0, instance:com.myntra.MyntraTest@c038203]" name="myntratest" duration-ms="12228" started-at="2022-05-18T20:10:15Z" finished-at="2022-05-18T20:10:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myntratest -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.myntra.MyntraTest@c038203]" name="closebrowser" is-config="true" duration-ms="5597" started-at="2022-05-18T20:10:27Z" finished-at="2022-05-18T20:10:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.myntra.MyntraTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
